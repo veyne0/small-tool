@@ -2,11 +2,12 @@
 
 # Small Tool
 
-这是一个基于 Gitee 的开源项目仓库。
+这是一个基于 Gitee 的项目仓库。
 
 ## 项目简介
 
 本项目提供了一个预编译的 Debian 软件包 (`small-tool_0.1.0_all.deb`)，适用于 Debian/Ubuntu 等 Linux 发行版。
+
 
 ## 软件包说明
 
@@ -17,19 +18,11 @@
 
 ## 安装方法
 
-### 方法一：使用 dpkg 命令
-```bash
+使用 dpkg 命令
+
+wget https://gitee.com/veyne0/small-tool/blob/master/small-tool_0.1.0_all.deb
 sudo dpkg -i small-tool_0.1.0_all.deb
-```
-
-### 方法二：使用 gdebi 工具（自动解决依赖）
-```bash
-sudo gdebi small-tool_0.1.0_all.deb
-```
-
-### 方法三：使用 apt 命令
-```bash
-sudo apt install ./small-tool_0.1.0_all.deb
+sudo apt install -f
 ```
 
 ## 系统要求
