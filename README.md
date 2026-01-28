@@ -20,7 +20,7 @@
 
 使用 dpkg 命令
 
-wget https://gitee.com/veyne0/small-tool/blob/master/small-tool_0.1.0_all.deb
+wget https://gitee.com/veyne0/small-tool/releases/download/0.2.1/small-tool-v0.2.1.deb
 sudo dpkg -i small-tool_0.1.0_all.deb
 sudo apt install -f
 ```
