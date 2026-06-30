@@ -46,3 +46,4 @@ sudo apt install -f
 ---
 
 **注意**: 由于本仓库目前仅包含编译后的软件包文件，如需查看源代码或了解工具的具体功能，请联系项目维护者或查阅相关文档。
+<img width="1175" height="266" alt="image" src="https://github.com/user-attachments/assets/5c4c9eb1-2685-411f-8be6-107b199242fc" />
