@@ -8,6 +8,7 @@
 
 本项目提供了一个预编译的 Debian 软件包 (`small-tool_0.1.0_all.deb`)，适用于 Debian/Ubuntu 等 Linux 发行版。
 
+<img width="1201" height="1227" alt="19d93eb45cba45adad323c08c5f54a8e~tplv-obj_1201_1227" src="https://github.com/user-attachments/assets/04515e0b-0978-48aa-85b1-6bd2d205772c" />
 
 ## 软件包说明
 
@@ -46,4 +47,3 @@ sudo apt install -f
 ---
 
 **注意**: 由于本仓库目前仅包含编译后的软件包文件，如需查看源代码或了解工具的具体功能，请联系项目维护者或查阅相关文档。
-<img width="1175" height="266" alt="image" src="https://github.com/user-attachments/assets/5c4c9eb1-2685-411f-8be6-107b199242fc" />
